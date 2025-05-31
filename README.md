@@ -55,10 +55,6 @@ The project employs the following approach:
 - Detect collision of snake head with walls or its body.
 - Trigger game over on collision.
 
-### 5. 🔄 Game Restart
-
-- Allow pressing **R** key to reset the game after game over.
-
 ---
 
 ## 💻 Implementation
