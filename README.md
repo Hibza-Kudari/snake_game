@@ -22,7 +22,6 @@ The core challenges tackled in this project include:
 - Handling continuous snake movement and growth mechanics.
 - Detecting collisions accurately (self and boundary).
 - Maintaining and displaying the player’s score.
-- Providing an option to restart the game after a game over.
 
 This project fills the gap for a simple, standalone Java game to help beginners understand game development fundamentals.
 
