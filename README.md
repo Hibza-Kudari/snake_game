@@ -74,7 +74,6 @@ The project employs the following approach:
 - Snake grows correctly and speed is consistent.
 - Collision detection is reliable, triggering game over at the right moments.
 - Score updates correctly as the snake eats food.
-- User can restart the game seamlessly.
 
 ---
 
