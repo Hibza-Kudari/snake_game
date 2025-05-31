@@ -70,7 +70,6 @@ The project employs the following approach:
 | Java SE 11+    | Programming language          |
 | Swing          | GUI framework                 |
 | Timer (javax.swing) | Controls game loop timing  |
-| IntelliJ IDEA  | Development environment (optional) |
 
 ---
 
